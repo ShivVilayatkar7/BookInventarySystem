@@ -1,4 +1,4 @@
-# BookInventarySystem
+# BookshopInventarySystem
 
 #include<iostream>
 #include<string>
